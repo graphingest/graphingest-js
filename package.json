@@ -1,0 +1,15 @@
+{
+  "name": "graphingest",
+  "version": "0.3.0",
+  "description": "GraphIngest JavaScript SDK — define pipeline nodes and graphs with plain JS functions.",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./react": "./src/react.js"
+  },
+  "keywords": ["graphingest", "orchestrator", "pipeline", "workflow", "ai-agent"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
